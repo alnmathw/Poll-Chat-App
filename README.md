@@ -10,3 +10,8 @@ Current functions
 3) Middleware authentication to users 
 4) Adding user to message rooms
 5) Saving messages in the database a.k.a messages in a chat room are saved 
+
+
+Current in progress 
+1) Prettier landing page 
+2) View account profile, add/follow friends, view friend profiles 
